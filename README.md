@@ -1,6 +1,6 @@
 ## Proyecto RadioMovil Sistema Web con Laravel
 
-_Este es un proyecto la materia de Tecnologia Web de la UAGRM, donde tenemos que diseñar e implementar un sistema web que cumpla requesitos o casos de usos especificos para una empresa de Radio Moviles._
+_Este es un proyecto para la materia de Tecnologia Web de la UAGRM, donde tenemos que diseñar e implementar un sistema web que cumpla requisitos especificos para una empresa de Radio Moviles._
 
 ## Casos de Uso
 
